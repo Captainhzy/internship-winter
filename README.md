@@ -66,8 +66,9 @@
 
 ### Junit
    [百度云](https://pan.baidu.com/s/1htgGiEg)，密码: bzhn
-   视频中使用的是gradle（相当于maven），后面基本不变。需掌握在Intellij中，编写单元测试（在test目录下），基本annotation的使用，右键运行（单个方法，真个类）。
-   https://gitee.com/wydh2010/internship-winter/tree/master/students/zhang-san/code 有基于maven和gradle的例子。
+   视频中使用的是gradle（相当于maven），后面基本不变。需掌握在Intellij中，编写单元测试（在test目录下），基本annotation的使用，右键运行（单个方法，整个类）。
+   
+   https://gitee.com/wydh2010/internship-winter/tree/master/students/zhang-san/code 基于maven和gradle的例子。
 
 ### Mysql
 
