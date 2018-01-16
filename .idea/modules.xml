@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/students/zhang-san/code/test-maven/src/test/test.iml" filepath="$PROJECT_DIR$/students/zhang-san/code/test-maven/src/test/test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/students/zhang-san/code/test-gradle/src/test/test1.iml" filepath="$PROJECT_DIR$/students/zhang-san/code/test-gradle/src/test/test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/students/hong-zhoyang/testhzy/testhzy.iml" filepath="$PROJECT_DIR$/students/hong-zhoyang/testhzy/testhzy.iml" />
     </modules>
   </component>
